@@ -22,3 +22,4 @@ plotly · Streamlit · BeautifulSoup · Git
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/santiago-quintanilla-zurita) | 
 [Email](mailto:tu@email.com)
+[Portfolio](https://ambiguous-ski-ce6.notion.site/Santiago-Quintanilla-Data-Portfolio-39060ccaebfe80df8c4ae0a5043bf13b?source=copy_link)
